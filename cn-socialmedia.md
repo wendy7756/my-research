@@ -1,3 +1,5 @@
+<div align="center">
+	
 # 社交媒体对股票市场的影响研究——基于文本挖掘的实证分析
 
 **作者**: Wendy Zhang

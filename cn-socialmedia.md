@@ -1,5 +1,3 @@
-<img width="1248" height="394" alt="image" src="https://github.com/user-attachments/assets/a02c7427-7b1f-43fc-8d11-f93e08db3d1c" /><div align="center">
-
 # 社交媒体对股票市场的影响研究——基于文本挖掘的实证分析
 
 **作者**: Wendy Zhang

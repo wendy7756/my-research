@@ -1,6 +1,10 @@
+<div align="center">
+
 # Chinese Tourists' Spatiotemporal Distribution and Current Status in the Lake Baikal Region: A Big Data Perspective
 
 **Wendy Zhang**
+
+</div>
 
 ## Abstract
 

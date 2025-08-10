@@ -1,7 +1,10 @@
-# The Impact of Social Media on Stock Market
-## Empirical Analysis Based on Text Mining
+<div align="center">
+
+# The Impact of Social Media on Stock Market —— Empirical Analysis Based on Text Mining
 
 **Wendy Zhang**
+
+</div>
 
 ## Abstract
 

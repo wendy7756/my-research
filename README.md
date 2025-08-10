@@ -82,7 +82,3 @@ my-research/
 - Lagging infrastructure development is the main constraint on tourism growth
 - Need to balance tourism development with environmental protection
 
-
----
-
-*Last updated: 2025*

@@ -6,9 +6,7 @@
 
 </div>
 
-## Abstract
-
-The performance of stock markets not only reflects a country's economic development and capital market trends but also influences individual investment decisions, corporate business strategies, and even national economic policies. This paper employs big data from social media to analyze and predict stock markets, utilizing text mining techniques, machine learning algorithms, and econometric methods to explore the impact of social media sentiment on stock markets. After processing texts from social media, we construct social media sentiment indices from multiple dimensions and conduct empirical research with stock market performance. The research results indicate that there exists a strong non-linear correlation between social media sentiment and stock markets, and incorporating social media sentiment indices helps explain and predict stock market behavior.
+**Abstract**: The performance of stock markets not only reflects a country's economic development and capital market trends but also influences individual investment decisions, corporate business strategies, and even national economic policies. This paper employs big data from social media to analyze and predict stock markets, utilizing text mining techniques, machine learning algorithms, and econometric methods to explore the impact of social media sentiment on stock markets. After processing texts from social media, we construct social media sentiment indices from multiple dimensions and conduct empirical research with stock market performance. The research results indicate that there exists a strong non-linear correlation between social media sentiment and stock markets, and incorporating social media sentiment indices helps explain and predict stock market behavior.
 
 **Keywords:** text mining; sentiment analysis; machine learning; social media; stock market
 

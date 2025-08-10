@@ -1,0 +1,38 @@
+# GitHub Pages Configuration
+title: "Wendy's Research Projects"
+description: "Research on Social Media Impact on Stock Market and Lake Baikal Tourism Analysis"
+author: "Wendy Zhang"
+
+# Theme
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Site settings
+lang: en
+timezone: Asia/Shanghai
+
+# Social links
+github_username: wendy7756
+
+# Build settings
+safe: true
+incremental: false
